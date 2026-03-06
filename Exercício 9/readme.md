@@ -1,0 +1,1 @@
+9) Sortear um número qualquer entre 0 e 100. Verificar se o número é par ou ímpar. Caso par elevar esse número ao seu quadrado. Caso ímpar elevar esse número ao seu cubo. Exibir o número e o seu quadrado ou o seu cubo.
