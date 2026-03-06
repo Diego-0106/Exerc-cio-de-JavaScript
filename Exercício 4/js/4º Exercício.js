@@ -1,7 +1,6 @@
 let Salario = 1500
 let Comissao = (parseInt(Math.random()*201)*30)
 let Total = Comissao + Salario
-
 console.log(Salario)
 console.log(Comissao)
 console.log(Total)
